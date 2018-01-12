@@ -1,0 +1,52 @@
+.container{
+    
+    align-content: center;
+}
+
+h1{
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+body{
+    background-color: lightskyblue;
+    padding-left: 20%;
+                padding-right: 20%; 
+}
+
+img{
+    border-radius: 10px;
+}
+
+
+
+ table
+{
+
+  border-spacing:0 3rem;
+  border-collapse:separate;
+}
+
+td{
+    padding-left: 80px;
+}
+
+figcaption {
+    padding: 15px;
+}
+
+
+#Navigation {
+    background-color: darkgrey;
+    width: 500px;
+    word-spacing: 15px;
+   margin: 0 auto;
+    padding: 5px 10px 10px 5px;
+    text-align: center;
+    color: black;
+}
+h1{
+   font-family: "Algerian", Times, serif;
+    color: cornflowerblue;
+    text-align: center;
+}

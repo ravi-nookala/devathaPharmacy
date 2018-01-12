@@ -1,0 +1,22 @@
+    body{
+                background-repeat: no-repeat;
+                background-size: cover;
+                padding-left: 20%;
+                padding-right: 20%; 
+        }
+        
+h1{
+   font-family: "Algerian", Times, serif;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+#Navigation {
+    background-color: darkgrey;
+    width: 500px;
+    word-spacing: 15px;
+   margin: 0 auto;
+    padding: 5px 10px 10px 5px;
+    text-align: center;
+    color: black;
+}

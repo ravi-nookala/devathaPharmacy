@@ -1,0 +1,52 @@
+#Navigation {
+    background-color: darkgrey;
+    width: 500px;
+    word-spacing: 15px;
+   margin: 0 auto;
+    padding: 5px 10px 10px 5px;
+    text-align: center;
+    color: black;
+}
+
+h1{
+    
+    text-align: center;
+     font-family: "Algerian", Times, serif;
+    color: cornflowerblue;
+}
+
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+
+}
+.container{
+font-size: 20px;
+}
+button {
+    background-color: cornflowerblue;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+body{
+    background-image: url(Mainpage.jpg);
+     background-size: cover;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+p{
+    text-align: right;
+    font-size: 20px;
+}

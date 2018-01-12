@@ -1,0 +1,25 @@
+body{
+    padding-left: 30%;
+    padding-right: 30%;
+    background-image: url(drupal-dtla-pharmacy_tech.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+ font-family:  "Algerian", Times, serif;
+ color: cornflowerblue;
+}
+
+input[type=text], input[type=password]{
+    width: 150%;
+    
+}
+
+p{
+    text-align: right;
+}
+
+input[type=button]{
+    text-align: center;
+}

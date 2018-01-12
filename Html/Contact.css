@@ -1,0 +1,32 @@
+.left{
+    width: 50%;
+    float: left;
+
+}
+
+.right{
+    width: 50%;
+    float: right;
+}
+
+
+#Navigation {
+    background-color: darkgrey;
+    width: 500px;
+    word-spacing: 15px;
+   margin: 0 auto;
+    padding: 5px 10px 10px 5px;
+    text-align: center;
+    color: black;
+}
+h1{
+   font-family: "Algerian", Times, serif;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+body{
+    
+    padding-left: 20%;
+    padding-right: 20%;
+}
